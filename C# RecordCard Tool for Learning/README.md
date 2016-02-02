@@ -1,0 +1,1 @@
+I used this tool to learn for my exams. You can save cards in HTML format and the tool shows a popup every X minutes with a random card.
