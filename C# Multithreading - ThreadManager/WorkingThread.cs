@@ -5,7 +5,7 @@ using System.Threading;
 // A WORKING THREAD CAN DO JOBS
 public class WorkingThread
 {
-    // systen thread
+    // system thread
     private System.Threading.Thread thread = null;
     // true: abort thread in next frame
     private bool abort;
