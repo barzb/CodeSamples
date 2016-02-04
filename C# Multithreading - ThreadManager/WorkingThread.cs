@@ -3,7 +3,7 @@ using System.Collections;
 using System.Threading;
 
 // A WORKING THREAD CAN DO JOBS
-public class WorkingThread
+public sealed class WorkingThread
 {
     // system thread
     private System.Threading.Thread thread = null;
